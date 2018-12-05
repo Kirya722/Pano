@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="node1">
+  <input leveltileurl="tiles/1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" overlap="1" levelingroll="0" width="1250" levelbias="0.400" leveltilesize="510" height="1250" levelingpitch="0">
+    <level preload="0" width="1250" predecode="0" height="1250"/>
+    <level preload="0" width="625" predecode="0" height="625"/>
+    <level preload="1" width="312" predecode="1" height="312"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view pannorth="0" fovmode="0">
+    <start pan="0" tilt="0" fov="70"/>
+    <min pan="0" tilt="-90" fov="5"/>
+    <max pan="360" tilt="90" fov="120"/>
+  </view>
+  <userdata copyright="" comment="" description="" datetime="2018:12:05 16:48:15" info="" title="" latitude="" author="" tags="Музей МЧС" source="" longitude=""/>
+  <hotspots width="180" height="20" wordwrap="1">
+    <label bordercolor="0x000000" backgroundcolor="0xffffff" border="1" width="180" textalpha="1" enabled="1" background="1" borderalpha="1" borderradius="1" height="20" textcolor="0x000000" wordwrap="1" backgroundalpha="1"/>
+    <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627"/>
+  </hotspots>
+  <media/>
+  <transition zoomout="0" blendtime="1" zoomin="0" blendcolor="0x000000" enabled="0" zoomspeed="2" zoomoutpause="1" zoomfov="20" softedge="0" type="crossdissolve"/>
+  <control dblclickfullscreen="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" contextfullscreen="0" lockedwheel="0" sensitivity="8" lockedkeyboardzoom="0" speedwheel="1" hideabout="0" simulatemass="1" invertcontrol="1"/>
+</panorama>
